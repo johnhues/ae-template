@@ -1,6 +1,3 @@
-[submodule "deps/aether-game-utils"]
-	path = deps/aether-game-utils
-	url = https://github.com/johnhues/aether-game-utils.git
 [submodule "deps/imgui"]
 	path = deps/imgui
 	url = https://github.com/johnhues/imgui.git
