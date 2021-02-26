@@ -9,3 +9,7 @@
 [submodule "deps/rapidjson"]
 	path = deps/rapidjson
 	url = https://github.com/Tencent/rapidjson.git
+[submodule "deps/aether-game-utils"]
+	path = deps/aether-game-utils
+	url = https://github.com/johnhues/aether-game-utils.git
+	branch = master
